@@ -2,8 +2,7 @@
 - 👀 I’m interested in Design and Code
 - 🌱 I’m currently learning HTML, CSS, and JS
 - 💞️ I’m looking to collaborate as a Front End Developer
-- 📫 How to reach me:
-	email: priopambudi869@gmail.com
+- 📫 How to reach me: (e-mail) priopambudi869@gmail.com
 
 <!---
 priopambudi/priopambudi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
