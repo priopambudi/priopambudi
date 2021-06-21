@@ -7,7 +7,7 @@
 - 👀 I’m interested in Design and Code. I learned very hard to be a good Front End Developer. Hope I can!
 - 👯 I’m looking to collaborate with other for a Project to increase my skills.
 - 🌱 I’m currently learning SCSS, ReactJS, NextJS, and MERN Stack.
-- ⚡ Fun fact: I want to be an influencer and vlogger
+- ⚡ Fun fact: want to be a businessman and content creator
 
 ### Connect with me:
 
