@@ -34,13 +34,13 @@
 <br/>
 <br/>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=priopambudi&hide=stars,issues,contribs&count_private=true)](https://github.com/priopambudi/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=priopambudi&hide=contribs,stars,issues&count_private=true&show_icons=true)](https://github.com/priopambudi/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priopambudi&layout=compact&hide=c%23,asp.net)](https://github.com/priopambudi/github-readme-stats)
 
 
 [website]: https://dev-monkey.netlify.app
-[instagram]: https://instagram.com/dev_monkey
+[instagram]: https://instagram.com/dev.monkey
 [linkedin]: https://linkedin.com/in/priopambudi
 [webdevplaylist]: #
 [jsplaylist]: #
