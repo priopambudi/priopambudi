@@ -2,11 +2,11 @@
 
 [![Website](https://img.shields.io/website?label=devmonkey&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dev-monkey.netlify.app)
 
-## I'm a Student and Developer!!
+## I'm a Developer!!
 
 - 👀 I’m interested in Design and Code. I learned very hard to be a good Front End Developer. Hope I can!
 - 👯 I’m looking to collaborate with other for a Project to increase my skills.
-- 🌱 I’m currently learning SCSS, ReactJS, NextJS, and MERN Stack.
+- 🌱 I’m currently learning ReactJS, NextJS, Vue, and MERN Stack.
 - ⚡ Fun fact: want to be a businessman and content creator
 
 ### Connect with me:
