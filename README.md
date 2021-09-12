@@ -1,6 +1,6 @@
-### Hi there, I'm Prio Pambudi - aka [Dev Monkey][website] 👋
+### Hi there, I'm Prio Pambudi - aka [Halocoders][website] 👋
 
-[![Website](https://img.shields.io/website?label=devmonkey&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://dev-monkey.netlify.app)
+[![Website](https://img.shields.io/website?label=halocoders&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://halocoders.netlify.app)
 
 ## I'm a Developer!!
 
@@ -12,7 +12,7 @@
 ### Connect with me:
 
 [<img align="left" alt="priopambudi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="dev_monkey | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="halocoders | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
 
@@ -39,8 +39,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priopambudi&layout=compact&hide=c%23,asp.net)](https://github.com/priopambudi/github-readme-stats)
 
 
-[website]: https://dev-monkey.netlify.app
-[instagram]: https://instagram.com/dev.monkey
+[website]: https://halocoders.netlify.app
+[instagram]: https://instagram.com/halocoders
 [linkedin]: https://linkedin.com/in/priopambudi
 [webdevplaylist]: #
 [jsplaylist]: #
