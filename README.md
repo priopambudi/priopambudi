@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="priopambudi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="halocoders | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="halocoders | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
@@ -34,9 +34,9 @@
 <br/>
 <br/>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=priopambudi&hide=contribs,stars,issues&count_private=true&show_icons=true)](https://github.com/priopambudi/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=halocoders&hide=contribs,stars,issues&count_private=true&show_icons=true)](https://github.com/halocoders/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priopambudi&layout=compact&hide=c%23,asp.net)](https://github.com/priopambudi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halocoders&layout=compact)](https://github.com/halocoders/github-readme-stats)
 
 
 [website]: https://halocoders.netlify.app
