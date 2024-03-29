@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for **new opportunities**
 
-- 🌱 I’m currently learning **Data Science, AI, and ML**
+- 🌱 I’m currently learning **Backend, Data Science, AI, and ML**
 
 - 👯 I’m looking to collaborate on **Web Dev, Data Science, AI, Machine Learning**
 
