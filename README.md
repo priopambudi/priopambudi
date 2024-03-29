@@ -6,7 +6,7 @@
 
 - 👀 Currently I'm eager to learn and explore about AI and Machine Learning - Student at Pacmann AI Academy
 - 👯 Open to collaborate with other for Projects
-- ⚡ Looking for job, projects, or intern as a Data Analytics or AI/ML Engineer
+- ⚡ Looking for job, projects, or intern as a Data Engineer or AI/ML Engineer
 
 <!---
 ### Connect with me:
