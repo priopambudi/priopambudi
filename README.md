@@ -1,20 +1,21 @@
-### Hi there, I'm Prio Pambudi - aka [Halocoders][website] 👋
+### Hi there, I'm Rio 👋
 
-[![Website](https://img.shields.io/website?label=halocoders&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://halocoders.netlify.app)
+[![Website](https://img.shields.io/website?label=Prio_Pambdui&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://priopambudi.github.io)
 
-## I'm a Developer!!
+## Fulltime Learner!!
 
-- 👀 I’m interested in Design and Code. I learned very hard to be a good Front End Developer. Hope I can!
-- 👯 I’m looking to collaborate with other for a Project to increase my skills.
-- 🌱 I’m currently learning ReactJS, NextJS, Vue, and MERN Stack.
-- ⚡ Fun fact: want to be a businessman and content creator
+- 👀 Currently I'm eager to learn and explore about AI and Machine Learning - Student at Pacmann AI Academy
+- 👯 Open to collaborate with other for Projects
+- ⚡ Looking for job, projects, or intern as a Data Analytics or AI/ML Engineer
 
+<!---
 ### Connect with me:
 
-[<img align="left" alt="halocoders | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="halocoders | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Prio Pambudi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="riopambudi.io | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
+--->
 
 ### Languages and Tools:
 
@@ -34,13 +35,13 @@
 <br/>
 <br/>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=halocoders&hide=contribs,stars,issues&count_private=true&show_icons=true)](https://github.com/halocoders/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=priopambudi&hide=contribs,stars,issues&count_private=true&show_icons=true)](https://github.com/priopambudi/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halocoders&layout=compact)](https://github.com/halocoders/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priopambudi&layout=compact)](https://github.com/priopambudi/github-readme-stats)
 
 
-[website]: https://halocoders.netlify.app
-[instagram]: https://instagram.com/halocoders
+[website]: https://priopambudi.github.io
+[instagram]: https://instagram.com/riopambudi.io
 [linkedin]: https://linkedin.com/in/priopambudi
 [webdevplaylist]: #
 [jsplaylist]: #
