@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rio</h1>
 <h3 align="center">Fullstack Web | Data Science | AI Engineer | Machine Learning</h3>
 
-- 🔭 I’m currently looking for **new opportunities**
+- 🔭 I’m currently looking for **new job and opportunities**
 
 - 🌱 I’m currently learning **Backend, Data Science, AI, and ML**
 
