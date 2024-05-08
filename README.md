@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rio</h1>
-<h3 align="center">Fullstack Web | Data Science | AI Engineer | Machine Learning</h3>
+<h3 align="center">Fullstack Engineer | AI Engineer | Machine Learning</h3>
 
-- 🔭 I’m currently looking for **new job and opportunities**
+- 🔭 I’m currently looking for **projects and opportunities**
 
-- 🌱 I’m currently learning **Backend, Data Science, AI, and ML**
+- 🌱 I’m currently learning **Data Science, AI, and Machine Learning**
 
-- 👯 I’m looking to collaborate on **Web Dev, Data Science, AI, Machine Learning**
+- 👯 I’m looking to collaborate on **Web Dev, Data Science, AI, and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://priopambudi.github.io](https://priopambudi.github.io)
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Javascript, Python, AI, ML**
 
-- 📫 How to reach me **prpmbdi@gmail.com**
+- 📫 How to reach me **priopambudi869@gmail.com**
 
 - ⚡ Fun fact: cat lover /ᐠ - ˕ -マ 
 
