@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rio</h1>
-<h3 align="center">Fullstack Engineer | AI Engineer | Machine Learning</h3>
+<h3 align="center">Software Engineer | Frontend Developer | NextJS | Web3JS</h3>
 
-- 🔭 I’m currently looking for **projects and opportunities**
+- 🔭 I’m currently looking for **projects**
 
-- 🌱 I’m currently learning **Data Science, AI, and Machine Learning**
+- 🌱 I’m currently learning **AI, Machine Learning, and Web3**
 
-- 👯 I’m looking to collaborate on **Web Dev, Data Science, AI, and Machine Learning**
+- 👯 I’m looking to collaborate on **AI and Bloackchain**
 
 - 👨‍💻 All of my projects are available at [https://priopambudi.github.io](https://priopambudi.github.io)
 
 - 📝 I regularly write articles on [https://medium.com/@riopambudi.io](https://medium.com/@riopambudi.io)
 
-- 💬 Ask me about **Javascript, Python, AI, ML**
+- 💬 Ask me about **Javascript and Blockchain**
 
 - 📫 How to reach me **priopambudi869@gmail.com**
 
