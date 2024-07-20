@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rio</h1>
 <h3 align="center">Software Engineer | Frontend Developer | NextJS | Web3JS</h3>
 
-- 🔭 I’m currently looking for **projects**
+- 🔭 I’m currently looking for **projects & long terms jobs**
 
 - 🌱 I’m currently learning **AI, Machine Learning, and Web3**
 
@@ -10,8 +10,6 @@
 - 👨‍💻 All of my projects are available at [https://priopambudi.github.io](https://priopambudi.github.io)
 
 - 📝 I regularly write articles on [https://medium.com/@riopambudi.io](https://medium.com/@riopambudi.io)
-
-- 💬 Ask me about **Javascript and Blockchain**
 
 - 📫 How to reach me **priopambudi869@gmail.com**
 
