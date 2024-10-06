@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rio</h1>
-<h3 align="center">Frontend | Blockchain Developer | Fullstack Web Developer</h3>
+<h3 align="center">Frontend Developer | Javascript | Typescript | React | Blockchain</h3>
 
 - 🔭 I’m looking for **remote & long term opportunities**
 
-- 🌱 Specialized in **Frontend Development, Blockchain, and Fullstack Web Development**
+- 🌱 Specialized in **Frontend Development and Web Development**
 
-- 👯 I’m looking to collaborate on **Blockchain**
+- 👯 I’m looking to collaborate on **Frontend Development and Blockchain (my side project)**
 
 - 👨‍💻 All of my projects are available at [https://priopambudi.github.io](https://priopambudi.github.io)
 
-- 📝 I regularly make video content on [https://www.instagram.com/rioopmbdi/](https://www.instagram.com/rioopmbdi/)
+- 📝 I regularly make content on [https://www.linkedin.com/in/prio-pambudi](https://www.linkedin.com/in/prio-pambudi/)
 
 - 📫 How to reach me **priopambudi869@gmail.com**
 
